@@ -1,5 +1,9 @@
 ## Automation with Python Course
 
+
+https://github.com/The-Future-Innovators-Academy/Automation_Python_Course/assets/116038307/fdd6cb99-74b5-40eb-93f1-55f70cb4092b
+
+
 **Time Estimate: 12 weeks**
 
 ### Week-by-Week Breakdown:
