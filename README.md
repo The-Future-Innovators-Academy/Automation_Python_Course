@@ -9,6 +9,20 @@ https://github.com/The-Future-Innovators-Academy/Automation_Python_Course/assets
 ### Week-by-Week Breakdown:
 
 **Week 1-2: Introduction to Python Basics**
+
+- Variables
+- Recieving Input
+- Type Conversion
+- Arithmetic Operators
+- Comparision Operators
+- Logical Operators
+- If Statements
+- Converting Weights Exercise
+- While loops
+- Lists
+- For Loops
+- Mad Libs Project
+
 [https://www.youtube.com/watch?v=kqtD5dpn9C8](url)
 - Overview of Python programming language
 - Installing Python and setting up the development environment
