@@ -9,6 +9,7 @@ https://github.com/The-Future-Innovators-Academy/Automation_Python_Course/assets
 ### Week-by-Week Breakdown:
 
 **Week 1-2: Introduction to Python Basics**
+[https://www.youtube.com/watch?v=kqtD5dpn9C8](url)
 - Overview of Python programming language
 - Installing Python and setting up the development environment
 - Variables, data types, and basic operations
