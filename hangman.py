@@ -2,7 +2,8 @@ import random
 
 def choose_word():
     words = ["python", "hangman", "programming", "computer", "science", "coding"]
-    return random.choice(words)
+    random_word = random.choice(words)
+    return random_word
 
 def display_word(word, guessed_letters):
     displayed_word = ""
